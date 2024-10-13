@@ -98,7 +98,7 @@ def clear_fields():
 def copy_to_clipboard():
     root.clipboard_clear()
     root.clipboard_append(output_password.get())
-    messagebox.showinfo("Copied", "Complex password fuckingg copied to clipboard!")
+    messagebox.showinfo("Copied", "Complex password copied to clipboard!")
 
 root = tk.Tk()
 root.title("Password Converter")

@@ -15,7 +15,6 @@ I created it because at times I felt the need for a strong password but remember
 - [Customization](#customization)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
 - [License](#license)
 
@@ -101,14 +100,6 @@ pyinstaller --onefile --windowed --icon=my_icon.ico password_converter.py
 ### Step 3: Find the Executable
 
 After running PyInstaller, the executable will be located in the **dist directory** within the same directory as password_converter.py file.
-
-## Usage
-
-1. Run the program.
-2. Enter your original password in the input field.
-3. Click the "Convert Password" button.
-4. Use the complex password as needed.
-5. Optionally, clear the fields or copy the result using the respective buttons.
 
 ## Troubleshooting
 

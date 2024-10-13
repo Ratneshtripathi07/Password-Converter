@@ -5,7 +5,7 @@ The **Password Converter** is a basic yet very helpful tool for strengthening us
 
 #### use case:
 
-I created it because at times I felt the need for a strong password but remembering one is a tough job, with **password converter** I simply enter a more familiar password that is easy to remember to me, and enter the complex one (converted using the software)
+I created it because at times I felt the need for a strong password but remembering one is a tough job, with **password converter** I simply enter a more familiar password that is easy to remember to me, and enter the complex one (converted using the software) wherever required.
 
 ## Table of Contents
 
